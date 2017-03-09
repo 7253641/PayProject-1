@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="payTypes">
+		<item>微信扫码支付</item>
+		<item>手Q扫码支付</item>
+		<item>支付宝扫码支付</item>
+		<item>微信app支付</item>
+		<item>支付宝app支付</item>
+	</string-array>
+    <color name="black">#000000</color>
+    <color name="item_left_color">#999999</color>
+    <color name="oreder_success">#85B200</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_gray">#EEEEEE</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="etInputMoney" type="id"/>
+    <item name="etInputOrder" type="id"/>
+    <item name="order_list" type="id"/>
+    <item name="order_query" type="id"/>
+    <item name="spinnerPayType" type="id"/>
+    <item name="spinnerText" type="id"/>
+    <item name="submitPay" type="id"/>
+    <string name="action_cancel">取消</string>
+    <string name="action_share">共享</string>
+    <string name="app_name">WftWxDemo</string>
+    <string name="app_tip">app_tip</string>
+    <string name="et_input_money">请输入金额</string>
+    <string name="et_input_order_des">请输入订单描述</string>
+    <string name="get_prepayid_fail">get_prepayid_fail</string>
+    <string name="get_prepayid_succ">get_prepayid_succ</string>
+    <string name="getting_prepayid">getting_prepayid</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

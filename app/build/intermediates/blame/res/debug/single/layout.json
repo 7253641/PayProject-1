@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_main.xml",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\layout\\pay_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_results.xml",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\layout\\pay_results.xml"
+    }
+]

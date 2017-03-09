@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\n_pay_right.png",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\drawable-hdpi\\n_pay_right.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\menu_share.png",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\drawable-hdpi\\menu_share.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\n_icon_rotating.png",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\drawable-hdpi\\n_icon_rotating.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\title_bg.png",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\drawable-hdpi\\title_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\return_to_main.png",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\drawable-hdpi\\return_to_main.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\n_pay_weixin.png",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\drawable-hdpi\\n_pay_weixin.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\n_info_bottom_bg.png",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\drawable-hdpi\\n_info_bottom_bg.png"
+    }
+]

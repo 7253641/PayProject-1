@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WftWxDemo</string>
+    <string name="et_input_order_des">请输入订单描述</string>
+    <string name="et_input_money">请输入金额</string>
+    <string name="action_share">共享</string>
+    <string name="action_cancel">取消</string>
+    <string name="app_tip">app_tip</string>
+    <string name="get_prepayid_fail">get_prepayid_fail</string>
+    <string name="get_prepayid_succ">get_prepayid_succ</string>
+    <string name="getting_prepayid">getting_prepayid</string>
+</resources>

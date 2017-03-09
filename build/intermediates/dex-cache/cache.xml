@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkSpace\WftWxDemo\app\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="E:\AndroidWorkSpace\WftWxDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_78e6596d220853bd701365ffcaa636696f904cc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidWorkSpace\WftWxDemo\app\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="E:\AndroidWorkSpace\WftWxDemo\app\build\intermediates\pre-dexed\release\libammsdk_78e6596d220853bd701365ffcaa636696f904cc6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkSpace\WftWxDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f38c59921f1b3a5011eb31d90241b8f488973f9">
+        <dex dex="E:\AndroidWorkSpace\WftWxDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_02418ad8c1e8fbb074c0445ecf1fb99383c28ea6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkSpace\WftWxDemo\app\libs\banksdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efa8590e1c16c79d00d0d9aa136d52470ebf403c">
+        <dex dex="E:\AndroidWorkSpace\WftWxDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\banksdk_9be51d4262c0a6f4bd2606c40b001a65158c62da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidWorkSpace\WftWxDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9df4d88c4aa993f3148986afe5370c66847ee41a">
+        <dex dex="E:\AndroidWorkSpace\WftWxDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a83b457d47155c5c7890b3bf26debb60dd93d99d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidWorkSpace\WftWxDemo\app\libs\banksdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efa8590e1c16c79d00d0d9aa136d52470ebf403c">
+        <dex dex="E:\AndroidWorkSpace\WftWxDemo\app\build\intermediates\pre-dexed\release\banksdk_9be51d4262c0a6f4bd2606c40b001a65158c62da.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_process_loading.xml",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\drawable\\my_process_loading.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_wallet.xml",
+        "source": "E:\\AndroidWorkSpace\\WftWxDemo\\app\\src\\main\\res\\drawable\\bg_wallet.xml"
+    }
+]
