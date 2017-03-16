@@ -1,4 +1,4 @@
-package com.jiubajiuba.mm.wxapi;
+package com.iehfenx.bonus.wxapi;
 
 import android.app.Activity;
 import android.content.Intent;

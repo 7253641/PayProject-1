@@ -3,6 +3,7 @@ package com.switfpass.pay.lib;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.os.AsyncTask;
+import android.util.Log;
 import android.widget.Toast;
 
 import com.switfpass.pay.MainApplication;
@@ -20,6 +21,7 @@ import java.util.Map;
  */
 
 public class GetPrepayIdTask extends AsyncTask<Void, Void, String> {
+    private String TAG = "GetPrepayIdTask:";
 
     private ProgressDialog dialog;
 
@@ -60,18 +62,21 @@ public class GetPrepayIdTask extends AsyncTask<Void, Void, String> {
     private boolean httpConnection() {
         String buf = HttpTool.getInstance().post(url, param);
         if (buf == null || buf.equals("")) {
+            Log.e(TAG, "errorMSG:response = null");
             return false;
         }
         try {
             JSONObject jsonContent = new JSONObject(buf);
             state = jsonContent.getInt("state");
             if (state == 400) {
+                Log.d(TAG, "state=" + state);
                 return false;
             }
             data = jsonContent.getString("data");
             JSONObject jsonObject = new JSONObject(data);
             resultCode = jsonObject.getString("resultCode");
             tokenId = jsonObject.getString("tokenId");
+            Log.d(TAG, "returnMSG:" + data);
         } catch (JSONException e) {
             e.printStackTrace();
             return false;
@@ -95,6 +100,7 @@ public class GetPrepayIdTask extends AsyncTask<Void, Void, String> {
             dialog.dismiss();
         }
         if (result == null) {
+            Log.d(TAG, "errorMSG:result = null");
             Toast.makeText(activity, "加载失败", Toast.LENGTH_LONG).show();
         } else {
             if ("0".equalsIgnoreCase(result)) // 成功
@@ -105,6 +111,7 @@ public class GetPrepayIdTask extends AsyncTask<Void, Void, String> {
                 msg.setAppId(mAppid);
                 PayPlugin.unifiedAppPay(activity, msg);
             } else {
+                Log.d(TAG, "errorMSG:result fail");
                 Toast.makeText(activity, "加载失败", Toast.LENGTH_LONG).show();
             }
         }

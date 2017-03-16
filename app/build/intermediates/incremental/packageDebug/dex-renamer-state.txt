@@ -1,7 +1,7 @@
-#Mon Mar 06 12:50:57 CST 2017
-base.0=E\:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_02418ad8c1e8fbb074c0445ecf1fb99383c28ea6
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=E\:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a83b457d47155c5c7890b3bf26debb60dd93d99d\\classes.dex
-base.1=E\:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a83b457d47155c5c7890b3bf26debb60dd93d99d
-file.0=E\:\\AndroidWorkSpace\\WftWxDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_02418ad8c1e8fbb074c0445ecf1fb99383c28ea6\\classes.dex
+#Thu Mar 09 17:31:28 CST 2017
+base.0=E\:\\AndroidWorkSpace\\PayProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2177b23dbd616f0cb6a105c75ab86fe557f36b8c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\AndroidWorkSpace\\PayProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b649a249cf54f7e3750b35695b243e9d91d216a3\\classes.dex
+base.1=E\:\\AndroidWorkSpace\\PayProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b649a249cf54f7e3750b35695b243e9d91d216a3
+file.0=E\:\\AndroidWorkSpace\\PayProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2177b23dbd616f0cb6a105c75ab86fe557f36b8c\\classes.dex

@@ -37,22 +37,13 @@ public final class R {
         public static final int title_bg=0x7f020009;
     }
     public static final class id {
-        public static final int action_share=0x7f080012;
-        public static final int appId=0x7f08000e;
-        public static final int body=0x7f080009;
-        public static final int credit_pay=0x7f080010;
+        public static final int action_share=0x7f080009;
         public static final int etInputMoney=0x7f080000;
         public static final int etInputOrder=0x7f080001;
-        public static final int mchId=0x7f08000a;
-        public static final int money=0x7f080008;
-        public static final int notifyUrl=0x7f08000b;
-        public static final int orderNo=0x7f08000d;
         public static final int order_list=0x7f080002;
         public static final int order_query=0x7f080003;
         public static final int pager=0x7f080007;
-        public static final int pay_finsh=0x7f080011;
-        public static final int seller_id=0x7f08000f;
-        public static final int signKey=0x7f08000c;
+        public static final int pay_finsh=0x7f080008;
         public static final int spinnerPayType=0x7f080004;
         public static final int spinnerText=0x7f080005;
         public static final int submitPay=0x7f080006;

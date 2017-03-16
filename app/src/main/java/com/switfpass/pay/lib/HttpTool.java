@@ -29,8 +29,8 @@ public class HttpTool {
             conn = (HttpURLConnection) new URL(url).openConnection();
             conn.setRequestMethod("GET");
             conn.setDoInput(true);
-            conn.setReadTimeout(20000);
-            conn.setConnectTimeout(20000);
+            conn.setReadTimeout(7000);
+            conn.setConnectTimeout(7000);
             conn.setUseCaches(false);
             conn.connect();
             rd  = new BufferedReader( new InputStreamReader(conn.getInputStream(), "UTF-8"));
@@ -76,8 +76,8 @@ public class HttpTool {
             conn.setRequestMethod("POST");
             conn.setDoOutput(true);
             conn.setDoInput(true);
-            conn.setReadTimeout(20000);
-            conn.setConnectTimeout(20000);
+            conn.setReadTimeout(10000);
+            conn.setConnectTimeout(10000);
             conn.setUseCaches(false);
             conn.connect();
             pw = new PrintWriter(conn.getOutputStream());
@@ -122,8 +122,8 @@ public class HttpTool {
             conn.setRequestMethod("POST");
             conn.setDoOutput(true);
             conn.setDoInput(true);
-            conn.setReadTimeout(20000);
-            conn.setConnectTimeout(20000);
+            conn.setReadTimeout(7000);
+            conn.setConnectTimeout(7000);
             conn.setUseCaches(false);
             conn.connect();
             pw = new PrintWriter(conn.getOutputStream());
